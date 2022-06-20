@@ -18,5 +18,5 @@ UoB GIN is currently available only on the UoB intranet. Therefore, we are going
 
 The next step is to create a repository.
 
-![Figure2: Creating a repository](Assets/Images/Fig02-create_repository.PNG)
+![Figure2: Creating a repository](Assets/Images/Fig02-create_repository.PNG) \
 **FIgure 2. Creating a repository**
