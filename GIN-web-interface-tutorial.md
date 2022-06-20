@@ -8,7 +8,7 @@ The latter set up is appealing to us because it gives us:
 - a drive for increasing data sharing and collaboration within neuroscience research groups at the University of Bristol;
 - a nudge for data standardisation.
 
-There is a number of benefits of using GIN in addition to a traditional way of managing your research data using a file manager software:
+There is a number of #benefits of using GIN in addition to a traditional way of managing your research data using a file manager software:
 - a more organised and disciplined way of working with the research data (relevant for PhDs and postdocs);
 - a data versioning system (think of Github);
 - a more secure data repository as access rights can be controlled by repository owners;
