@@ -5,7 +5,7 @@
 The latter set up is appealing to us because it gives us:
 - an extra layer of data security which is important when dealing with sensitive data
 - a potential to develop our GIN-based data sharing platform in a way that is uniquely suited to our own needs
-- a drive for increasing data sharing and collaboration within neuroscience research groups at the University of Bristol
+- a drive for increasing data sharing and collaboration within neuroscience research groups at the University of Bristol (UoB)
 - a nudge for data standardisation.
 
 ## Benefits
@@ -40,6 +40,6 @@ Currently we have GIN set up locally on one of our Linux machines (front-end) an
 - Using UoB GIN as a stepping stone towards building neuroscience research database accessible via a programming interface (Python/Matlab) and supporting fast queries.
 
 ## Practice
-Now try out a few tutorials made to give you a basic introduction into using the GIN web interface and GIN command line tools.
+Now try out a few tutorials made to give you a basic introduction into using the [GIN web interface](GIN-web-interface-tutorial.md) and [GIN command line tools](GIN-client-tutorial.md).
 
 Enjoy!
