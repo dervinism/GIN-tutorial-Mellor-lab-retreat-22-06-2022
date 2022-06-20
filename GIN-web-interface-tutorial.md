@@ -9,4 +9,14 @@ The latter set up is appealing to us because it gives us:
 - a nudge for data standardisation.
 
 There is a number of benefits of using GIN in addition to a traditional way of managing your research data using a file manager software:
+- a more organised and disciplined way of working with the research data (relevant for PhDs and postdocs);
+- a data versioning system (think of Github);
+- a more secure data repository as access rights can be controlled by repository owners;
+- a research collaboration platform;
+- a project management system (relevant for PIs);
+- a publication repository supporting DOIs for data (when our local GIN goes online);
+- a data standardisation tool offering standard research data folder templates with automated repository sync'ing;
+- a resource on good data management practices (when we create documentation).
+
+Future directions:
 - 
