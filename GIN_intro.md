@@ -35,6 +35,7 @@ Currently we have GIN set up locally on one of our Linux machines (front-end) an
     - Tutorials on adopting standard research data folder templates (e.g., [BIDS](https://bids.neuroimaging.io/))
 - Creating GIN services to automate repository creation and management (requires programming in GO; we are undecided on this)
 - Launching our GIN-based data sharing platform on a local server
+- Creating a Slack channel for early career researchers and PI using UoB GIN
 - Pitching the platform to other labs
 - Going online
 - Using UoB GIN as a stepping stone towards building neuroscience research database accessible via a programming interface (Python/Matlab) and supporting fast queries.
