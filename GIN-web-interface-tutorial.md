@@ -66,3 +66,37 @@ The repository now contains files which can be downloaded by your collaborators 
 ![Figure 9. Downloading repositories](Assets/Images/Fig09-download_files.PNG) \
 **Figure 9. Downloading repositories**
 <p>&nbsp;</p>
+
+![Figure 10. Downloading individual files](Assets/Images/Fig10-download_files2.PNG) \
+**Figure 10. Downloading individual files**
+<p>&nbsp;</p>
+
+Non-text files can be modified by uploading a new version of the repository files. In this way the old files are not only being replaced by the new ones, but changes are being tracked and the entire history of repository modifications is being preserved. Furthermore, you can create new repositories, add another organisation and associate the repository with a particular organisation. When I created my account, I indicated my affiliation with the University of Bristol. Now I am going to transfer the ownership of this repository to UoB. In the repository settings (Figure 5) I scroll down to the very bottom of the page passing the Advanced Settings all the way down to the Danger Zone where I carry out the transfer of ownership (Figure 11).
+
+![Figure 11. Danger Zone](Assets/Images/Fig11-danger_zone.PNG) \
+**Figure 11. Danger Zone**
+<p>&nbsp;</p>
+
+Once the ownership transfer has been carried out, the repository name should become associated with the new owner: UoB (Figure 12).
+
+![Figure 12. Transferring repository ownership](Assets/Images/Fig12-repository_name.PNG) \
+**Figure 12. Transferring repository ownership**
+<p>&nbsp;</p>
+
+If you go to the Dashboard of your account (see top left corner of Figure 12), you can view activity that is associated with your account. There you can also see the repositories and organisations associated with the repositories you work with. If you click on the organisation that is associated with one of your repositories (Figure 13), you will be taken to the organisation’s page (Figure 14) where you can create new teams of users. Figure 15 shows an example of creating a team that works with Neuropixels recordings: carrying out experiments using Neuropixels probes and writing code to analyse data generated using these probes. As one of the final steps, you associate the team with a repository which would give anyone within that team elevated rights to manipulate the repository as indicated in the Figure 16. If you press the blue Join button, you become a member of this team.
+
+![Figure 13. Finding your organisation in the Dashboard](Assets/Images/Fig13-Dashboard.PNG) \
+**Figure 13. Finding your organisation in the Dashboard**
+<p>&nbsp;</p>
+
+![Figure 14. Organisation page](Assets/Images/Fig14-organisation_page.PNG) \
+**Figure 14. Organisation page**
+<p>&nbsp;</p>
+
+![Figure 15. Creating a team](Assets/Images/Fig15-create_team.PNG) \
+**Figure 15. Creating a team**
+<p>&nbsp;</p>
+
+![Figure 16. Assigning a repository to a team](Assets/Images/Fig16-associate_repository_with_team.PNG) \
+**Figure 16. Assigning a repository to a team**
+<p>&nbsp;</p>
