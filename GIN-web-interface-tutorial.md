@@ -112,3 +112,5 @@ The team that you have created currently has no members. By pressing the blue Jo
 ![Figure 17. Add new team meambers](Assets/Images/Fig17-add_team_member.png) \
 **Figure 17. Add new team meambers**
 <p>&nbsp;</p>
+
+Any issues relating to a particular repository can be reported under the Issues tab in the repository page (Figures 4, 9, and 12). Any requests to make changes to the repository can be approved under the Pull Requests tab (Figures 4, 9, and 12). A more extended description of how to use the GIN server web interface is available at the [GIN web interface guide](https://gin.g-node.org/G-Node/Info/wiki/Web+Interface). There is also [a Windows GIN client](https://gin.g-node.org/G-Node/Info/wiki/WinGIN+Tutorial) available that functions as a GIN GUI for Windows systems.
