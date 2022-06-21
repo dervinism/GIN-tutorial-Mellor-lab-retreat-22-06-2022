@@ -51,10 +51,10 @@ When we have a repository created and settings adjusted, the next step is to upl
 **Figure 7. File upload page**
 <p>&nbsp;</p>
 
-In my case I simply drag-and-drop the entire [folder](TeamNeuroUoB) that I have prepared. This mock research data folder contains the following structure:
-dervinism\mock_repository\Jack_Mellor_group\MD\mock_project\animal_ID\session1_2022-05-16\probe1 (all data pertaining to the recording probe 1)
-dervinism\mock_repository\Jack_Mellor_group\MD\mock_project\animal_ID\session1_2022-05-16\probe2 (all data pertaining to the recording probe 2)
-dervinism\mock_repository\Jack_Mellor_group\MD\mock_project\animal_ID\session1_2022-05-16 (data that is related to both recording probes like pupil video, for example).
+In my case I simply drag-and-drop the entire [folder](TeamNeuroUoB) that I have prepared. This mock research data folder contains the following structure: \
+dervinism\mock_repository\Jack_Mellor_group\MD\mock_project\animal_ID\session1_2022-05-16\probe1 (all data pertaining to the recording probe 1) \
+dervinism\mock_repository\Jack_Mellor_group\MD\mock_project\animal_ID\session1_2022-05-16\probe2 (all data pertaining to the recording probe 2) \
+dervinism\mock_repository\Jack_Mellor_group\MD\mock_project\animal_ID\session1_2022-05-16 (data that is related to both recording probes like pupil video, for example). \
 I also add a commit message that succinctly describes the change that I am introducing to the repository.
 
 ![Figure 8. Committing files to the repository](Assets/Images/Fig08-upload_files2.PNG) \
