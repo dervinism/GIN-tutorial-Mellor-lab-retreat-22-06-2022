@@ -40,3 +40,7 @@ Once the repository is created its properties can be modified via the Settings p
 ![Figure 5. Repository settings](Assets/Images/Fig05-settings.PNG) \
 **Figure 5. Repository settings**
 <p>&nbsp;</p>
+
+![Figure 6. Setting up collaborations](Assets/Images/Fig06-collaborations.PNG) \
+**Figure 6. Setting up collaborations**
+<p>&nbsp;</p>
