@@ -11,7 +11,13 @@ In this tutorial you will learn how to:
 6. Assign the repository to the team
 7. Add members to the team
 
-UoB GIN is currently available only on the UoB intranet. Therefore, we are going to use [the web GIN](https://gin.g-node.org/) instead. This is fine as the two work the same. We start by registering an account with the web GIN. You just need to follow the instructions on the screen and your account is set up. Once the registration is done, you should have an account open as shown in the figure below.
+UoB GIN is currently available only on the UoB intranet. Therefore, we are going to use [the web GIN](https://gin.g-node.org/) instead. This is fine as the two work the same. We start by registering an account with the web GIN. You just need to follow the instructions on the screen, confirm your email, and your account is set up (Figure 0).
+
+![Figure 0. Register your Account](Assets/Images/Fig00-registration.png) \
+**Figure 0. Register your Account**
+<p>&nbsp;</p>
+
+Once the registration is done, you should have an account open as shown in the figure below.
 
 ![Figure 1. Fresh Account](Assets/Images/Fig01-registration.PNG) \
 **Figure 1. Fresh account**
@@ -83,7 +89,7 @@ Once the ownership transfer has been carried out, the repository name should bec
 **Figure 12. Transferring repository ownership**
 <p>&nbsp;</p>
 
-If you go to the Dashboard of your account (see top left corner of Figure 12), you can view activity that is associated with your account. There you can also see the repositories and organisations associated with the repositories you work with. If you click on the organisation that is associated with one of your repositories (Figure 13), you will be taken to the organisation’s page (Figure 14) where you can create new teams of users. Figure 15 shows an example of creating a team that works with Neuropixels recordings: carrying out experiments using Neuropixels probes and writing code to analyse data generated using these probes. As one of the final steps, you associate the team with a repository which would give anyone within that team elevated rights to manipulate the repository as indicated in the Figure 16. If you press the blue Join button, you become a member of this team.
+If you go to the Dashboard of your account (see top left corner of Figure 12), you can view activity that is associated with your account. There you can also see repositories and organisations associated with the repositories you work with. If you click on the organisation that is associated with one of your repositories (Figure 13), you will be taken to the organisation’s page (Figure 14) where you can create new teams of users. Figure 15 shows an example of creating a team that works with Neuropixels recordings: carrying out experiments using Neuropixels probes and writing code to analyse data generated using these probes. As one of the final steps, you associate the team with a repository which would give anyone within that team elevated rights to manipulate the repository as indicated in the Figure 16. If you press the blue Join button, you become a member of this team.
 
 ![Figure 13. Finding your organisation in the Dashboard](Assets/Images/Fig13-Dashboard.PNG) \
 **Figure 13. Finding your organisation in the Dashboard**
