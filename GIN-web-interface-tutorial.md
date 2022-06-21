@@ -34,3 +34,9 @@ By default the repository is private but it can be changed to public at any time
 ![Figure 4. Fresh repository](Assets/Images/Fig04-create_repository3.PNG) \
 **Figure 4. Fresh repository**
 <p>&nbsp;</p>
+
+Once the repository is created its properties can be modified via the Settings pane (Figure 5). Figure below shows part of available settings. More advanced settings can be set up (revealed if you scroll down), as well as collaborators can be added to the repository who can be granted full or restricted access rights (Figure 6).
+
+![Figure 5. Repository settings](Assets/Images/Fig05-settings.PNG) \
+**Figure 5. Repository settings**
+<p>&nbsp;</p>
