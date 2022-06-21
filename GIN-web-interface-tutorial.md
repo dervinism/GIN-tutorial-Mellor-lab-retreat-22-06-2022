@@ -11,7 +11,7 @@ In this tutorial you will learn how to:
 6. Assign the repository to the team
 7. Add members to the team
 
-UoB GIN is currently available only on the UoB intranet. Therefore, we are going to use [the web GIN](https://gin.g-node.org/) instead. This is fine as the two work the same. We start by registering an account with the web GIN. You just need to follow the instructions on the screen and your account is set up (Figure 0).
+UoB GIN is currently available only on the UoB intranet. Therefore, we are going to use [the web GIN](https://gin.g-node.org/) instead. This is fine as the two work the same. We start by registering an account with the web GIN. You just need to follow the instructions on the screen, confirm your email, and your account is set up (Figure 0).
 
 ![Figure 0. Register your Account](Assets/Images/Fig00-registration.png) \
 **Figure 0. Register your Account**
