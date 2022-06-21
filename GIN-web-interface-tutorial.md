@@ -28,3 +28,9 @@ I am going to use mock Neuropixels data acquired during a single recording sessi
 ![Figure 3. Describing a repository](Assets/Images/Fig03-create_repository2.PNG) \
 **Figure 3. Describing a repository**
 <p>&nbsp;</p>
+
+By default the repository is private but it can be changed to public at any time (not yet true for UoB GIN). You can also add collaborators at a later stage. Once the repository is created you should see the page below.
+
+![Figure 4. Fresh repository](Assets/Images/Fig04-create_repository3.PNG) \
+**Figure 4. Fresh repository**
+<p>&nbsp;</p>
