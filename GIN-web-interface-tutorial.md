@@ -60,3 +60,9 @@ I also add a commit message that succinctly describes the change that I am intro
 ![Figure 8. Committing files to the repository](Assets/Images/Fig08-upload_files2.PNG) \
 **Figure 8. Committing files to the repository**
 <p>&nbsp;</p>
+
+The repository now contains files which can be downloaded by your collaborators or by yourself if you lose access to your local instance of the repository. Just press the download button indicated in Figure 9 to download the entire repository. Files larger than 10MB will not be downloaded and only pointers will be downloaded. Big files have to be downloaded individually. Alternatively, large files can be downloaded using GIN client, git, or gitAnnex (command line tools). To download files individually, simply locate the file within the repository and click the Download button to the right of the file of interest (Figure 10). Similarly, you can delete a file by clicking the button with the bin symbol to the right of the Download button. If the file is a text file it can be edited by pressing the button with the pen symbol. GIN allows creating new text files by pressing the blue New file button (Figure 9). If you give an .md (Markdown) extension to the text file, it will allow you to use rich text editing tools just like in Github. These text editing tools are particularly useful when creating README files. Markdown text editing tools were used to create this tutorial.
+
+![Figure 9. Downloading repositories](Assets/Images/Fig09-download_files.PNG) \
+**Figure 9. Downloading repositories**
+<p>&nbsp;</p>
