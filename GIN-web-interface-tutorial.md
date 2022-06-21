@@ -44,3 +44,9 @@ Once the repository is created its properties can be modified via the Settings p
 ![Figure 6. Setting up collaborations](Assets/Images/Fig06-collaborations.PNG) \
 **Figure 6. Setting up collaborations**
 <p>&nbsp;</p>
+
+When we have a repository created and settings adjusted, the next step is to upload research data files. I have created a simple folder structure containing mock data that I would typically generate during a single recording session using two Neuropixels probes and a pupil camera but which also include pre-processing data generated during spike sorting with kilosort and Phy. The files can be uploaded using the blue ‘upload file’ button (Figure 4) which brings the ‘Commit changes’ page (Figure 7). The files can then be uploaded by clicking the area marked by the blue dashed line or by clicking that area. Note that the web interface limits the ammount and the size of files that can be uploaded. The proper more efficient way to manage multiple and large files is to use the GIN command line tools which are covered in [the next tutorial](GIN-client-tutorial.md).
+
+![Figure 7. File upload page](Assets/Images/Fig07-upload_files.PNG) \
+**Figure 7. File upload page**
+<p>&nbsp;</p>
