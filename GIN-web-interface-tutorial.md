@@ -107,4 +107,8 @@ If you go to the Dashboard of your account (see top left corner of Figure 12), y
 **Figure 16. Assigning a repository to a team**
 <p>&nbsp;</p>
 
-The team that you have created currently has no members. By pressing the blue Join button (Figure 16), you can be the first member to join the team. You can also invite other members of your lab or external collaborators to join the team. If you press on the blue members text, you will be prompted to add new team members.
+The team that you have created currently has no members. By pressing the blue Join button (Figure 16), you can be the first member to join the team. You can also invite other members of your lab or external collaborators to join the team. If you press on the blue members text, you will be prompted to add new team members (Figure 17). Choose another member of your lab to add as a collaborating team member. The new team member will have access and elevated rights to control the repository.
+
+![Figure 17. Add new team meambers](Assets/Images/Fig17-add_team_member.png) \
+**Figure 17. Add new team meambers**
+<p>&nbsp;</p>
